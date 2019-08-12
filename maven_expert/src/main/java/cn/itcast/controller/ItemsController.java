@@ -19,4 +19,5 @@ public class ItemsController {
         model.addAttribute("item",byId);
         return "itemDetail";
     }
+    //;kjoin
 }
